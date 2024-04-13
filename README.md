@@ -1,2 +1,2 @@
-# Web-Development
- Web Development tasks such as creating portfolio, stopwatch and weather web app.
+# Portfolio
+ HTML and CSS code for creating personal portfolio,
